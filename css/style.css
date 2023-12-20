@@ -6,11 +6,6 @@
 
 @media only screen and (max-width: 600px) {
   .content{
-    width: 100%;
-  }
-}
-@media only screen and (min-width: 601px) {
-  .content{
     width: 80%;
   }
 }
